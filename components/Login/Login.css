@@ -1,0 +1,29 @@
+.loginFieldSize{
+    width:20rem;
+    height:18rem;
+    border: 1px solid gray;
+    margin: 0 auto;
+    padding-top:100px;
+    border-radius: 10px;
+    
+}
+
+.gbtn{
+    
+    margin: 0 auto;
+    font-size: 15px;
+    color: black;
+    border: 1px solid gray;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    
+}
+.googlebtn{
+    width:20px;
+}
+.formLogo{
+    width:10rem;
+    margin: 0 auto;
+    margin-top:150px;
+    margin-bottom:30px
+}

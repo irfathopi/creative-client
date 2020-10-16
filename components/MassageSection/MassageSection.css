@@ -1,0 +1,13 @@
+.massageBox{
+    width: 100%;
+    height: auto;
+    background-color: #FBD062;
+    margin-top:100px
+}
+.our-massage{
+    padding-top:50px;
+}
+.client-massage{
+   padding-top:50px;
+   padding-bottom:60px
+}

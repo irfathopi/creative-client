@@ -1,0 +1,5 @@
+.dualcol-test {
+    background: linear-gradient(to right, #FBD062 0%, #FBD062 100%);
+    clip-path: polygon(0 0, 100% 0%, 100% 86%, 0% 100%);
+
+}

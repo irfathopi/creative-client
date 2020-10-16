@@ -1,0 +1,19 @@
+.cardStyle{
+   box-shadow: none;
+   height:260px;
+   margin-top:10px
+
+}
+.cardStyle:hover{
+    box-shadow: -3px 6px 48px -8px rgba(0,0,0,0.75);
+    transition: .2s;
+    height:260px;
+    border-radius: 10px;
+}
+.order-button{
+    padding-bottom:10px
+}
+.cardStyle img{
+    width:50px;
+    padding-top:15px
+}

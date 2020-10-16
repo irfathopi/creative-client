@@ -1,0 +1,15 @@
+.logo{
+    width:150px;
+    
+}
+
+.nav-item{
+    padding:8px 10px
+}
+.nav-item a{
+    border-bottom:none
+}
+.nav-item a:hover{
+    border-bottom: 3px solid green;
+    transition: .2s;
+}
