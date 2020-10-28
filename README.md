@@ -1,2 +1,3 @@
 # Creative agency
-**Details: Where someone can books it sector projects like web design, graphics design.**
+** Where someone can books IT sector projects like web design, graphics design.**
+
